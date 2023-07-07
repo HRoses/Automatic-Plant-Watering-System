@@ -17,3 +17,6 @@ Written in **java** and using **firmata4j Library**
 8) MicroUSB cable
 9) 12 volt dc water pump
 10) Flexible hose
+
+### Images
+![pic 3](https://github.com/HRoses/Automatic-Plant-Watering-System/assets/105571947/891cdaea-a4c1-4ddb-912d-bb1b2c3cb9ec)
