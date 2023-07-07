@@ -20,3 +20,5 @@ Written in **java** and using **firmata4j Library**
 
 ### Images
 ![pic 3](https://github.com/HRoses/Automatic-Plant-Watering-System/assets/105571947/891cdaea-a4c1-4ddb-912d-bb1b2c3cb9ec)
+
+![set up picture](https://github.com/HRoses/Automatic-Plant-Watering-System/assets/105571947/891e785f-d81d-48c1-9380-d6dff4dabe40)
