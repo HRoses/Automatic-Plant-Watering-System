@@ -3,7 +3,9 @@
 ### Introduction: The purpose of this hobby project is to design a automatic watering system for plants using Arduino grove board. The system works by detecting the moisture level of the soil via a moisture sensor and based on the condition of the soil it will water the plant. 
 
 ---
+Written in **java** and using **firmata4j Library** 
 
+---
 ### Parts Used: All purchased from https://www.seeedstudio.com other accessories such as Hose, Batteries purchased from local vendors. 
 1) Beginner kit (p/n 110061162). 
 2) Grove Moisture sensor(p/n 101020614)
