@@ -19,6 +19,5 @@ Written in **java** and using **firmata4j Library**
 10) Flexible hose
 
 ### Images
-![pic 3](https://github.com/HRoses/Automatic-Plant-Watering-System/assets/105571947/891cdaea-a4c1-4ddb-912d-bb1b2c3cb9ec)
-
-![set up picture](https://github.com/HRoses/Automatic-Plant-Watering-System/assets/105571947/891e785f-d81d-48c1-9380-d6dff4dabe40)
+![system set up 1](https://github.com/HRoses/Automatic-Plant-Watering-System/assets/105571947/c32c0a90-7db0-448d-81f6-6d7eaddbcc90)
+![system set up 2 results](https://github.com/HRoses/Automatic-Plant-Watering-System/assets/105571947/1217e93c-8fae-4e32-b9d8-3fb15698d19a)
